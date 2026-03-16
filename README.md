@@ -2,7 +2,7 @@
 
 Descripción
 -----------
-Proyecto de ejemplo que gestiona una lista simple de empleados. Muestra cómo
+Proyecto que gestiona una lista simple de empleados. Muestra cómo
 encapsular datos de empleados, mantener una colección, aplicar aumentos de
 salario y realizar validaciones básicas.
 
