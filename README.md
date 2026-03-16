@@ -8,7 +8,7 @@ salario y realizar validaciones básicas.
 
 Autor y versión
 ----------------
-- Autor: (indica tu nombre aquí)
+- Autor: Antonio Guillén Illán
 - Versión: 1.0.0
 - Fecha: 2026-03-16
 
@@ -65,12 +65,7 @@ java EmpleadoTest
 
 - Usando Maven y JUnit 5 (opcional):
   - Requiere Maven instalado. Ejecuta `mvn test` en la raíz del proyecto. `pom.xml` ya está incluido para facilitar la ejecución con JUnit 5.
+ 
+  - Al no haber instalado nada esos archivos de Test contendrán errores de ejecución
 
-Notas y siguientes pasos
------------------------
-- `Empleados.lista` está expuesto públicamente por simplicidad; para producción se recomienda hacerlo `private` y ofrecer métodos controlados de acceso.
-- Para internacionalización es preferible usar `ResourceBundle` en lugar de constantes estáticas.
-- Si quieres, puedo:
-  - generar la documentación JavaDoc en `docs/`,
-  - convertir `Constantes` a `ResourceBundle`, o
-  - añadir pruebas unitarias en JUnit 5 y mantener el runner.
+
